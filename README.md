@@ -1,5 +1,16 @@
 无名 免费 目标检测 跟踪框架
 
+报错问题：
+ 
+      1.电脑缺少运行库：
+      https://baoku.360.cn/soft/search?kw=微软运行库
+      
+      2.显卡驱动过旧
+      N卡：https://www.nvidia.cn/drivers/lookup/
+      A卡：https://www.amd.com/zh-cn/support.html
+
+
+
 使用方法：
                                                       
        1.模型选择
