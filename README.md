@@ -2,8 +2,11 @@
 
 报错问题：
  
-      1.电脑缺少运行库：
-      https://baoku.360.cn/soft/search?kw=微软运行库
+      1.电脑缺少 微软VC++运行库合集：
+      
+       [微软VC++运行库合集](https://baoku.360.cn/soft/show/appid/104698064)
+      
+      
       
       2.显卡驱动过旧
       N卡：https://www.nvidia.cn/drivers/lookup/
