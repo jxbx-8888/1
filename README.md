@@ -4,7 +4,8 @@
  
       1.电脑缺少 微软VC++运行库合集：
       
-       [微软VC++运行库合集](https://baoku.360.cn/soft/show/appid/104698064)
+       微软VC++运行库合集（选择 普通下载 ）：
+       https://baoku.360.cn/soft/show/appid/104698064
       
       
       
